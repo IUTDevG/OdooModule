@@ -1,7 +1,7 @@
-#Link-Qr - Module Odoo 15
-##Version : 1.0.0
+# Link-Qr - Module Odoo 15
+## Version : 1.0.0
 
-##Description
+## Description
 Le module Link-Qr permet de scanner un code QR présent sur un catalogue physique et de rediriger l'utilisateur directement vers la page de l'article dans le système Odoo. Cela facilite l'accès aux informations détaillées du produit sans avoir à rechercher manuellement l'article dans le catalogue numérique.
 
 Fonctionnalités
